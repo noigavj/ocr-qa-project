@@ -37,7 +37,7 @@ ocr_qa_project/
 
 ```bash
 # 1. 克隆项目
-git clone https://github.com/你的用户名/ocr-qa-project.git
+git clone https://github.com/noigavj/ocr-qa-project.git
 cd ocr-qa-project
 
 # 2. 创建虚拟环境
@@ -86,12 +86,6 @@ OCR 引擎: PaddleOCR (PP-OCRv4)
 | ![雷达图](reports/figures/radar_chart.png) | ![柱状图](reports/figures/accuracy_bar.png) |
 
 License
-
-> ⚠️ **注意**：把 `你的用户名` 改成你的 GitHub 用户名。
-
----
-
-## 第四步：Git 本地提交（5分钟）
 
 确保在 `E:\Ocrpy>` 且前面有 `(venv)`，依次执行：
 
