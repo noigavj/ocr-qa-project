@@ -84,14 +84,3 @@ OCR 引擎: PaddleOCR (PP-OCRv4)
 | 雷达图                                     | 柱状图                                      |
 | --------------------------------------- | ---------------------------------------- |
 | ![雷达图](reports/figures/radar_chart.png) | ![柱状图](reports/figures/accuracy_bar.png) |
-
-License
-
-确保在 `E:\Ocrpy>` 且前面有 `(venv)`，依次执行：
-
-```cmd
-git init
-git add .
-git status
-git status 应该显示大量绿色文件（被追踪），没有 venv/ 和 .jpg 文件。
-然后提交：git commit -m "feat: complete OCR algorithm QA project with functional, robustness, benchmark and regression tests"
