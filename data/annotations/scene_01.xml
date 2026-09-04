@@ -1,0 +1,105 @@
+<annotation>
+	<folder>raw</folder>
+	<filename>scene_01.jpg</filename>
+	<path>E:\Ocrpy\data\raw\scene_01.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1902</width>
+		<height>2560</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>南	莫沫南路	北		西 金雀山路 东					 西 银雀山路 东
+MO MO NANLU		 JIN QUE SHAN LU	 YIN QUE SHAN LU</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>59</xmin>
+			<ymin>42</ymin>
+			<xmax>1883</xmax>
+			<ymax>262</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>南 沂蒙路	北	 南 沂州路 北				 东	沂河路	西
+YI MENG LU		YI ZHOU LU					 YI HE LU</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>47</xmin>
+			<ymin>353</ymin>
+			<xmax>1838</xmax>
+			<ymax>686</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>西解放路东	东化武路西					 东育才路西
+JIE FANG LU	HUA WU LU			 YU	CAI LU</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>27</xmin>
+			<ymin>724</ymin>
+			<xmax>1862</xmax>
+			<ymax>936</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>南 蒙山大道 北	南 滨河大道 北	南 工业大道 北
+MENGSHANDADAO	BIN HE DA DAO		GONG YE DA DAO</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>33</xmin>
+			<ymin>1053</ymin>
+			<xmax>1891</xmax>
+			<ymax>1374</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>青年路 胜利路 文化路
+QING NIAN LU	SHENG LILU	WEN HUA LU</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>62</xmin>
+			<ymin>1430</ymin>
+			<xmax>1868</xmax>
+			<ymax>1595</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>朝阳路	 和平路	南 蒙山高架 北
+CHAO YANG LU	HE PING LU	MENG SHAN GAO JIA</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>141</xmin>
+			<ymin>1783</ymin>
+			<xmax>1902</xmax>
+			<ymax>2018</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>东 沂河高架 西	东 陶然高架 西	东 双岭高架 西
+YLHE GAO JIA	TAO RAN GAO JIA	SHUANG LING GAO JIA</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>21</xmin>
+			<ymin>2159</ymin>
+			<xmax>1902</xmax>
+			<ymax>2412</ymax>
+		</bndbox>
+	</object>
+</annotation>

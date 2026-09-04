@@ -1,0 +1,11 @@
+{
+  "image": "data/raw/doc_01.jpg",
+  "runs": 30,
+  "avg_ms": 2238.71,
+  "min_ms": 2183.79,
+  "max_ms": 2382.96,
+  "median_ms": 2223.71,
+  "p95_ms": 2372.8,
+  "p99_ms": 2382.96,
+  "std_ms": 52.26
+}

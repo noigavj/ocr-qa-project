@@ -1,0 +1,58 @@
+<annotation>
+	<folder>raw</folder>
+	<filename>invoice_09.jpg</filename>
+	<path>E:\Ocrpy\data\raw\invoice_09.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>1067</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>N001806 重庆代 售
+重庆	K1052次	昆明
+ChongQing	KunMing</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>74</xmin>
+			<ymin>409</ymin>
+			<xmax>744</xmax>
+			<ymax>552</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>2012年04月23日18:42开
+12车016号中铺
+羊272.00元
+新空调硬卧</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>63</xmin>
+			<ymin>553</ymin>
+			<xmax>752</xmax>
+			<ymax>642</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>限乘当日当次车
+普娅娇
+5335221990****0020
+46814201740423 N001806</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>67</xmin>
+			<ymin>648</ymin>
+			<xmax>437</xmax>
+			<ymax>839</ymax>
+		</bndbox>
+	</object>
+</annotation>

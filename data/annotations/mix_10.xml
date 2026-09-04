@@ -1,0 +1,146 @@
+<annotation>
+	<folder>raw</folder>
+	<filename>mix_10.jpg</filename>
+	<path>E:\Ocrpy\data\raw\mix_10.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>3072</width>
+		<height>4096</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>比重趋势	m(1+R1)/m(1+R2)&gt;m/n
+①R1&gt;R2 上升 ②R2&gt;R1 下降</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>302</xmin>
+			<ymin>62</ymin>
+			<xmax>2354</xmax>
+			<ymax>724</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>占比趋势多一步
+比重差
+m去年部分（R1-R2）/今年整体	n(1+R2)</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>259</xmin>
+			<ymin>1028</ymin>
+			<xmax>1926</xmax>
+			<ymax>1857</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>靠近基期量大 A C B
+							 溶质 溶质1+溶质2</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>597</xmin>
+			<ymin>1857</ymin>
+			<xmax>2945</xmax>
+			<ymax>2233</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>盐水：浓度：溶液	溶液1十溶液2</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>240</xmin>
+			<ymin>2257</ymin>
+			<xmax>2811</xmax>
+			<ymax>2495</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>时间维度混合
+构成维度混合</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>792</xmin>
+			<ymin>2538</ymin>
+			<xmax>1997</xmax>
+			<ymax>3076</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>1-11月 + 12月
+上半年+下半年
+男+女
+进+出
+城+农</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2045</xmin>
+			<ymin>2462</ymin>
+			<xmax>2888</xmax>
+			<ymax>3309</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>三排序 r1 ORO	r2</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>311</xmin>
+			<ymin>3100</ymin>
+			<xmax>1997</xmax>
+			<ymax>3552</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>求三R量之比	十字交叉</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>288</xmin>
+			<ymin>3500</ymin>
+			<xmax>1983</xmax>
+			<ymax>3843</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>男 10%
+女 16%</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2011</xmin>
+			<ymin>3328</ymin>
+			<xmax>2469</xmax>
+			<ymax>3833</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>12%	4% 2
+						 =-
+					2% 1</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2497</xmin>
+			<ymin>3319</ymin>
+			<xmax>3040</xmax>
+			<ymax>3843</ymax>
+		</bndbox>
+	</object>
+</annotation>

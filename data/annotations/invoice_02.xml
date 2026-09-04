@@ -1,0 +1,178 @@
+<annotation>
+	<folder>raw</folder>
+	<filename>invoice_02.jpg</filename>
+	<path>E:\Ocrpy\data\raw\invoice_02.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>4746</width>
+		<height>2884</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>051001900105侏形
+校验码 54563 13584 19843 65313
+四川增值税普通发票
+此联不作报销、扣税凭证使用
+No08570298
+05100190010608570298
+开票日期:2021年10月20日</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>964</xmin>
+			<ymin>214</ymin>
+			<xmax>4155</xmax>
+			<ymax>692</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>买方
+称:
+纳税人识别号:
+地址、电话:
+开户行及账号:
+四川穗通科技有限公司
+91511623314407831C</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>568</xmin>
+			<ymin>714</ymin>
+			<xmax>2359</xmax>
+			<ymax>1064</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>密
+码
+区
+4*89&lt;5683*039--*45/7-4745&lt;8&lt;&lt;&lt;-/&lt;0&lt;*5&gt;68-&lt;&gt;&gt;-0&lt;71&lt;33-019*6*-47+22/2*1-59-*45/+-17*9*0&gt;1*-1+3+*4&gt;+83&gt;&gt;3-18&lt;&gt;/</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2655</xmin>
+			<ymin>746</ymin>
+			<xmax>4164</xmax>
+			<ymax>1092</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>货物或应税劳务、服务名称
+蔬菜
+规格型号
+单位
+数量
+单价
+3111.00
+税率
+**水
+颂
+*妆水
+mage
+¥3111.00</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>550</xmin>
+			<ymin>1123</ymin>
+			<xmax>4223</xmax>
+			<ymax>1901</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>价税合计(大写)
+叁仟壹佰壹拾壹圆整
+(小写)¥3111.00</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>564</xmin>
+			<ymin>1937</ymin>
+			<xmax>4100</xmax>
+			<ymax>2055</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>销售方
+名
+称:国家税务总局邻水县税务局发票代开68
+纳税人识别号:
+地址、电话:
+51162300DK02278
+高滩镇 13659090975
+开户行及账号:000000
+(代开机关)
+(代开机关)
+(完税凭证号)</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>546</xmin>
+			<ymin>2083</ymin>
+			<xmax>2641</xmax>
+			<ymax>2455</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>汪
+代开企业税号:510282198101307928 代开企业名称:袁
+学群</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2646</xmin>
+			<ymin>2092</ymin>
+			<xmax>4205</xmax>
+			<ymax>2423</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>收款人:
+复核:
+开票人;刘虹君
+销售方:(章)</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>577</xmin>
+			<ymin>2451</ymin>
+			<xmax>3768</xmax>
+			<ymax>2573</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>税总函[2019]144号浙江茉织华印刷股份有限公司</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>391</xmin>
+			<ymin>728</ymin>
+			<xmax>546</xmax>
+			<ymax>2433</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>第四联：</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>4200</xmin>
+			<ymin>1064</ymin>
+			<xmax>4364</xmax>
+			<ymax>1355</ymax>
+		</bndbox>
+	</object>
+</annotation>

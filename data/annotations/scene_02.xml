@@ -1,0 +1,66 @@
+<annotation>
+	<folder>raw</folder>
+	<filename>scene_02.jpg</filename>
+	<path>E:\Ocrpy\data\raw\scene_02.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1920</width>
+		<height>1527</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>北京路	上海路	天津路
+BEI JING LU	SHANG NAI LU	TIAN JIN LU</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>91</xmin>
+			<ymin>136</ymin>
+			<xmax>1785</xmax>
+			<ymax>347</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>南京路 成都路 中山路
+NAN JING LU CHENG DU LU	ZHONG SHAN LU</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>54</xmin>
+			<ymin>462</ymin>
+			<xmax>1824</xmax>
+			<ymax>695</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>东 济南路 西	东 武汉路 西	东 长春路 西
+JI NAN LU	WU HAN LU CHANG CHUN LU</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>46</xmin>
+			<ymin>871</ymin>
+			<xmax>1878</xmax>
+			<ymax>1052</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>东 广州路 西	东 西安路	西
+GUANG ZHOU LU	XI AN LU</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>15</xmin>
+			<ymin>1234</ymin>
+			<xmax>1274</xmax>
+			<ymax>1404</ymax>
+		</bndbox>
+	</object>
+</annotation>

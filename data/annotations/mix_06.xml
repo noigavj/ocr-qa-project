@@ -1,0 +1,37 @@
+<annotation>
+	<folder>raw</folder>
+	<filename>mix_06.jpg</filename>
+	<path>E:\Ocrpy\data\raw\mix_06.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1362</width>
+		<height>1816</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>口算乘法（1）
+16×3=48（盒）
+方法①：数的组成
+3X6=18
+10x3=30
+18+30=48
+方法②：想竖式口算
+16
+X'3
+48
+方法③：根据乘法的意义转化为连加
+16+16+16=48</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>177</xmin>
+			<ymin>289</ymin>
+			<xmax>1227</xmax>
+			<ymax>1564</ymax>
+		</bndbox>
+	</object>
+</annotation>

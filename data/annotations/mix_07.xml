@@ -1,0 +1,121 @@
+<annotation>
+	<folder>raw</folder>
+	<filename>mix_07.jpg</filename>
+	<path>E:\Ocrpy\data\raw\mix_07.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>666</width>
+		<height>500</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>园地六
+一丶交通工具
+车类 跑车 警车 赛车
+船类 客轮 轮船 帆船</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>14</xmin>
+			<ymin>106</ymin>
+			<xmax>256</xmax>
+			<ymax>252</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>二 多音字
+sheng	pu	zhong	hao	fen
+cheng	pu	zhong	hao	fen
+chong	jiao	hao	gan	nan
+zhong	jiao	hao	gan	nan</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>10</xmin>
+			<ymin>253</ymin>
+			<xmax>281</xmax>
+			<ymax>417</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>三标点符号
+逗号，句号。感叹号
+顿号、何号？省略号
+冒号：引号""破折号</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>265</xmin>
+			<ymin>128</ymin>
+			<xmax>479</xmax>
+			<ymax>267</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>!
+......
+--</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>480</xmin>
+			<ymin>151</ymin>
+			<xmax>505</xmax>
+			<ymax>264</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>五日积月累
+志:志向,理想
+从小就要树立远大的理想,只要付出努力，就会有收获</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>509</xmin>
+			<ymin>128</ymin>
+			<xmax>664</xmax>
+			<ymax>280</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>四、我的发现（形声
+当一挡挡档
+少一炒抄吵
+成一城盛诚
+丁一叮钉盯</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>281</xmin>
+			<ymin>270</ymin>
+			<xmax>465</xmax>
+			<ymax>435</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>手兴我爱阅读
+只要善于观察 多思考
+就会有新发现。
+鸟一飞机鱼一潜般
+订蝙蝠→雷达
+猫眼一夜视镜</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>468</xmin>
+			<ymin>274</ymin>
+			<xmax>665</xmax>
+			<ymax>466</ymax>
+		</bndbox>
+	</object>
+</annotation>

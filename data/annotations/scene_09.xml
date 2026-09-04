@@ -1,0 +1,29 @@
+<annotation>
+	<folder>raw</folder>
+	<filename>scene_09.jpg</filename>
+	<path>E:\Ocrpy\data\raw\scene_09.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>3072</width>
+		<height>4096</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>资料分析
+ZILIAO FENXI
+600题
+题本篇</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>278</xmin>
+			<ymin>319</ymin>
+			<xmax>2840</xmax>
+			<ymax>2619</ymax>
+		</bndbox>
+	</object>
+</annotation>

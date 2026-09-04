@@ -1,0 +1,147 @@
+<annotation>
+	<folder>raw</folder>
+	<filename>invoice_05.jpg</filename>
+	<path>E:\Ocrpy\data\raw\invoice_05.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>3189</width>
+		<height>2362</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>241mm*177.8mm-3
+存根联STUB
+发票联INVOICE
+记帐联ENTRY</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>45</xmin>
+			<ymin>9</ymin>
+			<xmax>2816</xmax>
+			<ymax>218</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>[电脑打印手写无效)(HEAND WRITININCTLAND VOID)
+开票日期:INVOICE DATE.
+XX市交通运输业通用发票INVOICEFOR XIAMENTRANSPORTTION INDUSTRY发联INVOICE
+发票代码235020800000RECEIPT CODE发票号码00000000NVOICENUIMREI</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>266</xmin>
+			<ymin>237</ymin>
+			<xmax>2748</xmax>
+			<ymax>630</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>机打代码PRINIING COUE
+机打号码PRINTINGNUMDCR
+机器号码INEING MACHINE NLMBER
+密码区PASSWORD</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>363</xmin>
+			<ymin>662</ymin>
+			<xmax>2695</xmax>
+			<ymax>980</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>付款方名称NAME OF PAYER
+Image
+项目名称PROJECT
+纳税人识别号TAXPAYER'S ID CODE
+金额(元)AMOUNT(RMB)</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>363</xmin>
+			<ymin>1002</ymin>
+			<xmax>2432</xmax>
+			<ymax>1249</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>合计金额(元)(大写)TOITAI.AMOUNT(RMH) IN CHINESH
+备注:
+REMARK:
+开票单位名称NAME OF INVOICEDRAWER
+¥
+纳税人识别号LAXPAYER'S ID CODE</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>341</xmin>
+			<ymin>1259</ymin>
+			<xmax>2701</xmax>
+			<ymax>2059</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>开票人:
+NVOICE DRAWER:
+开票率位签草:SEAL OF INVOICE DRLAWER:
+开具范用:除间际海运生运输、网际航空验客运输、铁路貨物运输、公路内河货物运输以外的变通运输和装却战运生务。
+Isuing Soope The tusincs of tusaportrticg &amp; poateage cxoept inscrnateoal shipping linteatioal ir pascnuge tnaporturioe ulrced frsight ad inland rcad &amp; tivet frigh.</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>332</xmin>
+			<ymin>2080</ymin>
+			<xmax>2413</xmax>
+			<ymax>2296</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>蓝门安能脱份有限公司2008年X月年XXXX份(X联)号码起讫</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>254</xmin>
+			<ymin>1055</ymin>
+			<xmax>360</xmax>
+			<ymax>1902</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>第二联 发票联(INVOIC)</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2720</xmin>
+			<ymin>884</ymin>
+			<xmax>2776</xmax>
+			<ymax>1509</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>第一联
+存聯(STUB)
+第二联 发票联(INVOICE)
+第三联 记账联(ENTRY)</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2941</xmin>
+			<ymin>890</ymin>
+			<xmax>3188</xmax>
+			<ymax>1499</ymax>
+		</bndbox>
+	</object>
+</annotation>

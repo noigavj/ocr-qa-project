@@ -1,0 +1,106 @@
+<annotation>
+	<folder>raw</folder>
+	<filename>table_08.jpg</filename>
+	<path>E:\Ocrpy\data\raw\table_08.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>791</width>
+		<height>1228</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name># 资产负债表
+
+会小企 01 表
+编制单位：             2023/2/28           单位：元</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1</xmin>
+			<ymin>1</ymin>
+			<xmax>759</xmax>
+			<ymax>86</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>资产		行次		期末余额		年初余额		负债和所有者权益		行次		期末余额		年初余额
+流动资产								流动负债						
+货币资金		1						短期借款		31				
+短期投资		2						应付票据		32				
+应收票据		3						应付账款		33				
+应收账款		4						预收账款		34				
+预付账款		5						应付职工薪酬		35				
+应收股利		6						应交税费		36				
+应收利息		7						应付利息		37				
+其他应收款		8						应付利润		38				
+存货		9						其他应付款		39</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>9</xmin>
+			<ymin>94</ymin>
+			<xmax>760</xmax>
+			<ymax>406</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>其中：原材料		10												
+在产品		11												
+库存商品		12												
+周转材料		13												
+其他流动资产		14						其他流动负债		40				
+流动资产合计		15						流动负债合计		41				
+非流动资产								非流动负债						
+长期债券投资		16						长期借款		42				
+长期股权投资		17						长期应付款		43				
+固定资产原价		18						递延收益		44</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>10</xmin>
+			<ymin>415</ymin>
+			<xmax>682</xmax>
+			<ymax>695</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>减：累计折旧		19						其他非流动负债		45				
+固定资产账面价值		20						非流动负债合计		46				
+在建工程		21						负债合计		47				
+工程物资		22												
+固定资产清理		23												
+生产性生物资产		24						所有者权益（或股东权益）</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>11</xmin>
+			<ymin>698</ymin>
+			<xmax>684</xmax>
+			<ymax>895</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>无形资产		25						实收资本（或股本）		48				
+开发支出		26						资本公积		49				
+长期待摊费用		27						盈余公积		50				
+其他非流动资产		28						未分配利润		51				
+非流动资产合计		29						所有者权益（或股东权益）合计		52				
+资产合计		30						负债和所有者权益（或股东权益）		53</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>10</xmin>
+			<ymin>887</ymin>
+			<xmax>673</xmax>
+			<ymax>1090</ymax>
+		</bndbox>
+	</object>
+</annotation>

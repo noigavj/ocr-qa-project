@@ -1,0 +1,66 @@
+<annotation>
+	<folder>raw</folder>
+	<filename>table_04.jpg</filename>
+	<path>E:\Ocrpy\data\raw\table_04.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1022</width>
+		<height>514</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>2027 国考报考时间线与策略</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>9</xmin>
+			<ymin>21</ymin>
+			<xmax>261</xmax>
+			<ymax>58</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>阶段		时间（预计）		事项		你的动作
+公告发布		2026‑10‑14		2027 国考公告 + 职位表发布		下载职位表，用专业（智能科学与技术 / 计算机类）筛选岗位
+网上报名		2026‑10‑15~10‑24		国考报名（国考税务 / 海关等）		对标本名单锁定 1 个岗位；关注实时报名人数，避免扎堆
+资格审查		2026‑10‑15~10‑26		资格审核 + 确认缴费		核对应届身份、专业代码（080907T）填写无误
+笔试		2026‑11‑28/29		行政职业能力测验 + 申论（行政执法类）		国考总分 = 行测 + 申论（各 100 分制合成）
+成绩公布		2027‑01		笔试成绩 + 首批进面名单		对照进面分判断；未进面关注调剂
+面试		2027‑02~03		税务 / 海关等结构化面试		税务系统多为结构化小组面试</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>20</xmin>
+			<ymin>67</ymin>
+			<xmax>980</xmax>
+			<ymax>227</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>## 选岗策略
+
+① **主攻（保底）**：赣州市南康区税务局（一）117.2—— 赣州本地唯一低于 118 的计算机岗，招 3 人，是 115 分最现实的落地目标；
+
+② **冲刺（提分后）**：赣州市第一税务分局 128.3 / 于都（二）128.6 / 石城（一）128.1—— 模考稳定 125 + 再报；
+
+③ **异地备选**：东乡 112.7 / 铅山 114.7 / 余江 116.6 / 遂川 116.9—— 若可接受异地，保底面更宽；
+
+④ **反向验真提示**：所有 “低分岗” 务必看专业 —— 崇义 97.5 / 大余 103.9 / 全南 110.1 / 定南 108.8 均为财会经济类，计算机专业不可报；
+
+⑤ **折算分岗**（金融监管 50‑66 分 / 铁路公安 65 分）需加试专业科目，分数低≠好考，仅作第三选择。</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>9</xmin>
+			<ymin>234</ymin>
+			<xmax>809</xmax>
+			<ymax>389</ymax>
+		</bndbox>
+	</object>
+</annotation>

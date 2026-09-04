@@ -1,0 +1,33 @@
+<annotation>
+	<folder>raw</folder>
+	<filename>doc_07.jpg</filename>
+	<path>E:\Ocrpy\data\raw\doc_07.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>506</width>
+		<height>712</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name># 目录
+一、南昌工学院毕业实习管理办法………………………………………………1
+二、关于进一步加强学生外出实习安全管理工作的通知……………………9
+三、南昌工学院毕业生毕业实习安全承诺书…………………………………12
+四、南昌工学院毕业实习计划书………………………………………………13
+五、毕业实习周记………………………………………………………………17
+六、毕业实习总结………………………………………………………………29
+七、南昌工学院毕业实习鉴定表………………………………………………33</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>48</xmin>
+			<ymin>46</ymin>
+			<xmax>478</xmax>
+			<ymax>448</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,120 @@
+<annotation>
+	<folder>raw</folder>
+	<filename>invoice_08.jpg</filename>
+	<path>E:\Ocrpy\data\raw\invoice_08.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1000</width>
+		<height>1333</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>D071855
+2010年12月09日11:55开
+泉州售
+10车029号
+二等座</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>108</xmin>
+			<ymin>112</ymin>
+			<xmax>885</xmax>
+			<ymax>245</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>泉
+州
+Quanzhou
+¥269.00元
+限乘当日当次车
+3204次
+杭州南
+Hangzhounan</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>114</xmin>
+			<ymin>236</ymin>
+			<xmax>817</xmax>
+			<ymax>425</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>3416-9000-0311-27D0-7185-5
+和谐号</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>70</xmin>
+			<ymin>506</ymin>
+			<xmax>917</xmax>
+			<ymax>610</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>A074137
+2010年12月14日09:45开
+泉州售02车002号</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>80</xmin>
+			<ymin>604</ymin>
+			<xmax>920</xmax>
+			<ymax>783</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>杭州
+Hangzhou
+D3213次
+泉州
+二等座
+Quanzhou</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>115</xmin>
+			<ymin>772</ymin>
+			<xmax>938</xmax>
+			<ymax>930</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>¥277.00元
+限乘当日当次车
+始发改签</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>76</xmin>
+			<ymin>901</ymin>
+			<xmax>880</xmax>
+			<ymax>1019</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>3416-9000-0412-05A0-7413-7
+和谐号</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>36</xmin>
+			<ymin>1127</ymin>
+			<xmax>936</xmax>
+			<ymax>1250</ymax>
+		</bndbox>
+	</object>
+</annotation>

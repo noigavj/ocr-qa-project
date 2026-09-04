@@ -1,0 +1,72 @@
+<annotation>
+	<folder>raw</folder>
+	<filename>table_10.jpg</filename>
+	<path>E:\Ocrpy\data\raw\table_10.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1295</width>
+		<height>787</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>江西 2026 国考・计算机类可报岗位全表（81 岗，含专业与进面分）</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>252</xmin>
+			<ymin>1</ymin>
+			<xmax>703</xmax>
+			<ymax>34</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>国家税务总局江西省税务局		国家税务总局奉新县税务局		一级行政执法员（一）		自动化类、计算机类		本科及以上		3		132.7		普通岗
+国家税务总局江西省税务局		国家税务总局广昌县税务局		一级行政执法员（二）		统计学类、自动化类、计算机类		本科及以上		2		132.9		普通岗
+国家税务总局江西省税务局		国家税务总局乐平市税务局		一级行政执法员（四）		心理学类、统计学类、计算机类		本科及以上		2		133.2		普通岗
+国家税务总局江西省税务局		国家税务总局浮梁县税务局		一级行政执法员（二）		数学类、统计学类、计算机类		本科及以上		2		133.6		普通岗
+国家税务总局江西省税务局		国家税务总局宁都县税务局		一级行政执法员（二）		电子信息类、计算机类		本科及以上		2		134		普通岗</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1</xmin>
+			<ymin>40</ymin>
+			<xmax>1283</xmax>
+			<ymax>264</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>国家税务总局江西省税务局		国家税务总局峡江县税务局		一级行政执法员（四）		数学类、统计学类、计算机类		本科及以上		2		134		普通岗
+国家税务总局江西省税务局		国家税务总局龙南市税务局		一级行政执法员（三）		电子信息类、计算机类		本科及以上		3		134.8		普通岗
+国家税务总局江西省税务局		国家税务总局安福县税务局		一级行政执法员（三）		统计学类、电子信息类、计算机类		本科及以上		2		136		普通岗
+国家税务总局江西省税务局		国家税务总局庐山市税务局		一级行政执法员（三）		电子信息类、计算机类		本科及以上		2		136.3		普通岗</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>16</xmin>
+			<ymin>268</ymin>
+			<xmax>1295</xmax>
+			<ymax>439</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>国家税务总局江西省税务局		国家税务总局南昌市红谷滩区税务局		一级行政执法员（三）		统计学类、计算机类		本科及以上		2		136.4		普通岗
+国家税务总局江西省税务局		国家税务总局吉水县税务局		一级行政执法员（三）		电子信息类、自动化类、计算机类		本科及以上		2		137		普通岗
+国家税务总局江西省税务局		国家税务总局鹰潭市月湖区税务局		一级行政执法员（二）		电子信息类、自动化类、计算机类		本科及以上		2		137.4		普通岗
+国家税务总局江西省税务局		国家税务总局南昌市青山湖区税务局		一级行政执法员（三）		统计学类、计算机类		本科及以上		2		141.5		普通岗</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1</xmin>
+			<ymin>445</ymin>
+			<xmax>1273</xmax>
+			<ymax>614</ymax>
+		</bndbox>
+	</object>
+</annotation>

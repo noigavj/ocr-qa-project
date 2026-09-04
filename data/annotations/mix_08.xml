@@ -1,0 +1,52 @@
+<annotation>
+	<folder>raw</folder>
+	<filename>mix_08.jpg</filename>
+	<path>E:\Ocrpy\data\raw\mix_08.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>3072</width>
+		<height>4096</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>申论
+1.生态环境保护
+2.经济高质是发展（科技创新）
+3.社会管理（公共管理与基层治理）
+4.文化建设 事业/产业 乡村
+5.民生保降								 社区
+6.乡村振兴</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>254</xmin>
+			<ymin>186</ymin>
+			<xmax>2745</xmax>
+			<ymax>1743</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>概括
+1优先用总结句
+2语句逻辑 （并矿，转折）
+3.高度概括
+4主体一致，向下兼启
+①时序归纳 （事前事中事后 接诉 办理 反馈
+②主题归纳													评价）
+③维度归纳（共同属性）
+③维度归乡 共同局性）</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>264</xmin>
+			<ymin>1981</ymin>
+			<xmax>2935</xmax>
+			<ymax>3843</ymax>
+		</bndbox>
+	</object>
+</annotation>

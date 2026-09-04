@@ -1,0 +1,30 @@
+<annotation>
+	<folder>raw</folder>
+	<filename>mix_02.jpg</filename>
+	<path>E:\Ocrpy\data\raw\mix_02.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1920</width>
+		<height>1440</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>望洞庭
+湖光秋月两相和
+潭面无风镜未磨
+遥望洞庭山水翠
+白银盘里一青螺</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>61</xmin>
+			<ymin>73</ymin>
+			<xmax>1869</xmax>
+			<ymax>1343</ymax>
+		</bndbox>
+	</object>
+</annotation>

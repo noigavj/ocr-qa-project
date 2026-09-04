@@ -1,0 +1,29 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+
+# 虚拟环境（太大，不提交）
+venv/
+env/
+ENV/
+
+# 数据集图片（太大，不提交；但保留标注和JSON）
+data/raw/*.jpg
+data/raw/*.jpeg
+data/raw/*.png
+data/degraded/*.jpg
+data/degraded/*.jpeg
+data/degraded/*.png
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# 系统文件
+.DS_Store
+Thumbs.db

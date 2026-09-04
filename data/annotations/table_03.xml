@@ -1,0 +1,60 @@
+<annotation>
+	<folder>raw</folder>
+	<filename>table_03.jpg</filename>
+	<path>E:\Ocrpy\data\raw\table_03.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1295</width>
+		<height>565</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>国家税务总局江西省税务局		国家税务总局宜春市税务局第二税务分局		专业技术员		电子信息类、计算机类		本科及以上		2		123.5		普通岗
+国家税务总局江西省税务局		国家税务总局大余县税务局		一级行政执法员（四）		统计学类、电子信息类、计算机类		本科及以上		2		125.3		普通岗
+国家税务总局江西省税务局		国家税务总局贵溪市税务局		一级行政执法员（三）		数学类、统计学类、计算机类		本科及以上		3		126.4		普通岗
+国家税务总局江西省税务局		国家税务总局上栗县税务局		一级行政执法员（一）		数学类、统计学类、计算机类		本科及以上		2		126.7		普通岗
+国家税务总局江西省税务局		国家税务总局上栗县税务局		一级行政执法员（二）		数学类、统计学类、计算机类		本科及以上		2		126.8		普通岗</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1</xmin>
+			<ymin>1</ymin>
+			<xmax>1282</xmax>
+			<ymax>214</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>国家税务总局江西省税务局		国家税务总局弋阳县税务局		一级行政执法员（五）		化学类、计算机类		本科及以上		2		127.4		普通岗
+国家税务总局江西省税务局		国家税务总局靖安县税务局		一级行政执法员（三）		电子信息类、计算机类		本科及以上		3		127.7		普通岗
+国家税务总局江西省税务局		国家税务总局宜黄县税务局		一级行政执法员（三）		数学类、统计学类、计算机类		本科及以上		2		127.8		普通岗
+国家税务总局江西省税务局		国家税务总局石城县税务局		一级行政执法员（一）		数学类、计算机类		本科及以上		2		128.1		普通岗</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1</xmin>
+			<ymin>213</ymin>
+			<xmax>1277</xmax>
+			<ymax>394</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>国家税务总局江西省税务局		国家税务总局玉山县税务局		一级行政执法员（一）		数学类、统计学类、电子信息类、计算机类		本科及以上		2		128.1		普通岗
+国家税务总局江西省税务局		国家税务总局抚州市税务局第三稽查局		一级行政执法员（一）		数学类、统计学类、计算机类		本科及以上		2		128.1		普通岗
+国家税务总局江西省税务局		国家税务总局赣州市税务局第一税务分局		一级行政执法员		统计学类、计算机类		本科及以上		2		128.3		普通岗
+国家税务总局江西省税务局		国家税务总局宜春市税务局第二稽查局		一级行政执法员		电子信息类、计算机类		本科及以上		2		128.3		普通岗</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1</xmin>
+			<ymin>397</ymin>
+			<xmax>1282</xmax>
+			<ymax>564</ymax>
+		</bndbox>
+	</object>
+</annotation>

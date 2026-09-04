@@ -1,0 +1,38 @@
+<annotation>
+	<folder>raw</folder>
+	<filename>doc_08.jpg</filename>
+	<path>E:\Ocrpy\data\raw\doc_08.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>608</width>
+		<height>896</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name># 以我为媒 予你精彩
+## 赣州市融媒体中心（赣州文化传媒集团）诚邀您携手同行
+
+赣州市融媒体中心（赣州文化传媒集团）由原赣南日报社（赣州客家新闻网管理中心）与赣州广播电视台合并组建而成，拥有《赣南日报》、赣州新闻综合频率频道、客家新闻网等传统媒体资源，以及以“赣南红”为核心的客户端、微信、微博、抖音、视频号等新媒体矩阵，是赣南地区最具传播力、引导力、影响力和公信力的综合性传媒机构。
+
+&gt;赣州唯一市属国有文化企业
+# 赣州文化传媒集团
+**主营业务**：传媒服务、红培研学、少儿培训、文体赛事、文化创意（节会展陈）、人工智能、演艺经济、微短剧、直播带货、票根经济等业务
+**新兴业务**：Vlog、全案营销、技术开发、应用场景、城市物管、文化投资、舆情处置、演播厅租赁等业务
+**经典案例**：赣州25公里徒步、江西省城市足球超级联赛（赣州赛区）、赣州春晚、“跟着红军+”研学精品路线、赣州经济年度人物评选等案例
+
+联系电话：0797‑8388803
+邮箱：gzwcjt888@163.com</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>14</xmin>
+			<ymin>27</ymin>
+			<xmax>592</xmax>
+			<ymax>885</ymax>
+		</bndbox>
+	</object>
+</annotation>

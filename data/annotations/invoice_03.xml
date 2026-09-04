@@ -1,0 +1,208 @@
+<annotation>
+	<folder>raw</folder>
+	<filename>invoice_03.jpg</filename>
+	<path>E:\Ocrpy\data\raw\invoice_03.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1349</width>
+		<height>849</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>机器编号:499099507914</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>93</xmin>
+			<ymin>146</ymin>
+			<xmax>348</xmax>
+			<ymax>174</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>内蒙古增值税电
+普通发票
+学超古自治区税务购
+发票代码:015002300111
+发票号码:34666095
+开票日期:2024年12月31日
+校 验码:09392 84406 98864 40050</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>445</xmin>
+			<ymin>24</ymin>
+			<xmax>1292</xmax>
+			<ymax>184</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>购买方
+名
+称:内蒙古蒙祥隆能源有限公司
+纳税人识别号:91150122MA0PXG29X1
+7层南半区187481306552851
+内蒙古自治区呼和浩特市托克托县双河镇托克托大街万兴广场2号楼B座
+地址、电话:
+内蒙古托克托农村商业银行股份有限公司金宇支行040380122000000000
+开户行及账号:</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>111</xmin>
+			<ymin>184</ymin>
+			<xmax>780</xmax>
+			<ymax>315</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>码
+区
+03&gt;//43+6-6+89*+93437&lt;60914&lt;38/1*02259&lt;023&gt;8&lt;6958-5/54/13+&lt;1954+16047-5&lt;322/64&gt;-36866/83&gt;&gt;+8+101905*19&gt;3&lt;*63-++6</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>787</xmin>
+			<ymin>192</ymin>
+			<xmax>1301</xmax>
+			<ymax>313</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>货物或应税劳务、服务名称
+*保险服务*保费
+*保险服务*保费
+合
+计</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>105</xmin>
+			<ymin>315</ymin>
+			<xmax>399</xmax>
+			<ymax>576</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>规格型号PEBS2024150100001018
+94
+PEBS2024150100001018
+94</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>412</xmin>
+			<ymin>317</ymin>
+			<xmax>557</xmax>
+			<ymax>433</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>单位单单
+数量
+单价
+134.72200.2
+金
+额
+134.72200.20
+¥334.92
+税率
+6%免税
+税
+额
+8.08
+***
+¥8.08</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>574</xmin>
+			<ymin>314</ymin>
+			<xmax>1296</xmax>
+			<ymax>580</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>价税合计(大写)
+叁佰肆拾叁圆整
+(小写)¥343.00</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>145</xmin>
+			<ymin>583</ymin>
+			<xmax>1218</xmax>
+			<ymax>618</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>销
+生
+方
+中国人民财产保险股份有限公司呼和浩特市分公司
+纳税人识别号:911501028141973166
+地址、电话:
+呼和浩特市托克托县双河镇新建中路87号0471-8517393
+开户行及账号:中国银行呼和浩特市鼓楼支行152401116765</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>109</xmin>
+			<ymin>624</ymin>
+			<xmax>771</xmax>
+			<ymax>731</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>备注
+PEBS202415010000101894;</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>788</xmin>
+			<ymin>620</ymin>
+			<xmax>1057</xmax>
+			<ymax>735</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>收款人:程云飞
+复核:赵凤凤
+开票人:程云飞
+销售</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>106</xmin>
+			<ymin>733</ymin>
+			<xmax>1040</xmax>
+			<ymax>785</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>中国人民财产保险股份有限公司呼和浩特事分公司 911501028141973166 发票专用章</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1038</xmin>
+			<ymin>653</ymin>
+			<xmax>1306</xmax>
+			<ymax>823</ymax>
+		</bndbox>
+	</object>
+</annotation>

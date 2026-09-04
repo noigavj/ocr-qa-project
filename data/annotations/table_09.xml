@@ -1,0 +1,57 @@
+<annotation>
+	<folder>raw</folder>
+	<filename>table_09.jpg</filename>
+	<path>E:\Ocrpy\data\raw\table_09.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1299</width>
+		<height>476</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>国家税务总局江西省税务局		国家税务总局铜鼓县税务局		一级行政执法员（四）		电子信息类、计算机类		本科及以上		2		128.7		普通岗
+国家税务总局江西省税务局		国家税务总局九江市浔阳区税务局		一级行政执法员（三）		电子信息类、计算机类		本科及以上		3		129.7		普通岗
+国家税务总局江西省税务局		国家税务总局新干县税务局		一级行政执法员（二）		统计学类、计算机类		本科及以上		2		129.7		普通岗
+国家税务总局江西省税务局		国家税务总局南昌市税务局第二税务分局		专业技术员（一）		统计学类、电子信息类、计算机类		本科及以上		2		130		普通岗</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1</xmin>
+			<ymin>1</ymin>
+			<xmax>1293</xmax>
+			<ymax>172</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>中国人民银行江西省分行		中国人民银行吉安市分行井冈山营业管理部		综合业务部门一级主任科员及以下		大学本科：电子信息类 (0807)、计算机类 (0809)；研究生：电子科学与技术 (0809)、信息与通信工程 (0810)、计算机科学与技术 (0812)、软件工程 (0835)、网络空间安全 (0839)、电子信息 (0854)		本科及以上		1		130.1		普通岗
+国家税务总局江西省税务局		国家税务总局樟树市税务局		一级行政执法员（四）		电子信息类、计算机类		本科及以上		2		130.3		普通岗
+国家税务总局江西省税务局		国家税务总局万载县税务局		一级行政执法员（三）		电子信息类、计算机类		本科及以上		2		130.4		普通岗</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>12</xmin>
+			<ymin>175</ymin>
+			<xmax>1297</xmax>
+			<ymax>339</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>国家税务总局江西省税务局		国家税务总局永新县税务局		一级行政执法员（二）		数学类、统计学类、计算机类		本科及以上		2		130.6		普通岗
+国家税务总局江西省税务局		国家税务总局江西赣江新区税务局稽查局		一级行政执法员		电子信息类、计算机类		本科及以上		2		130.6		普通岗
+国家税务总局江西省税务局		国家税务总局吉安市税务局第二税务分局		专业技术员		电子信息类、计算机类		本科及以上		2		130.8		普通岗</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1</xmin>
+			<ymin>339</ymin>
+			<xmax>1288</xmax>
+			<ymax>473</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,47 @@
+<annotation>
+	<folder>raw</folder>
+	<filename>invoice_06.jpg</filename>
+	<path>E:\Ocrpy\data\raw\invoice_06.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>3024</width>
+		<height>3024</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>A033473
+幸福XingFu
+2020次
+¥520元
+2020年01月01日
+00:00开
+小可爱售
+永远YongYuan13车14号
+新空调硬座</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>484</xmin>
+			<ymin>877</ymin>
+			<xmax>2491</xmax>
+			<ymax>1618</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>限乘当日当次车
+1234567890****123478433002512227 A033473</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>481</xmin>
+			<ymin>1625</ymin>
+			<xmax>1571</xmax>
+			<ymax>2122</ymax>
+		</bndbox>
+	</object>
+</annotation>

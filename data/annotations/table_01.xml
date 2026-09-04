@@ -1,0 +1,132 @@
+<annotation>
+	<folder>raw</folder>
+	<filename>table_01.jpg</filename>
+	<path>E:\Ocrpy\data\raw\table_01.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>956</width>
+		<height>495</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>名单反向验真记录（岗位真实性核验）
+核验顼	结论
+智能科学与技术能否报税务计算机岗	能报
+用户说“进面分数都在126”是否属实基本 属实
+龙南海关低分岗(111.7/129.9)是否可报	不可报
+原名单“铁路公安45-68分可捡漏” 是否成立 误导
+低分税务岗能否捡漏	不能</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1</xmin>
+			<ymin>8</ymin>
+			<xmax>314</xmax>
+			<ymax>322</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>证据</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>615</xmin>
+			<ymin>39</ymin>
+			<xmax>652</xmax>
+			<ymax>76</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>《税务系统2026年度考试录用公务员相关事项通知》专业目录明确列出“
+国考招8286人、占21.74%
+江西税务2026进面97.5-141.5；赣州本地计算机类普通岗最低117.2（南
+数可报岗在120-135
+龙南海关监管（一）111.7为材料类、监管（二）129.9为化学类，均非计算
+业
+铁路公安/航运公安为折算分制（行测申论×50%+公安专业×50%），需加
+不代表普通岗容易
+崇义97.5/大余103.9/全南110.1/定南108.8等经华图职位库核验为财会/经
+折算分制+需加试金融专业科目，且专业列表为“计算机科学与技术等”
+代码核验）
+中公/华图确认：2027国考职位表预计2026年10月中旬发布，报名10月15
+准)
+进面分与专业均来自2026国考真实开考岗位（公考雷达API实测+本地宝职
+位表为准</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>317</xmin>
+			<ymin>70</ymin>
+			<xmax>742</xmax>
+			<ymax>495</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>智能科学与技木”：计鼻机类2026
+南康），全省最低112.7（东乡），多
+计算机类：同类低分海关岗多为特殊专
+需加试公安专业科目+体测+政审：低分</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>730</xmin>
+			<ymin>79</ymin>
+			<xmax>950</xmax>
+			<ymax>299</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>经济类专业，计算机专业不可报
+（不含智能科学与技术原名，需按专业
+15-24日，笔试11月底（以官方为
+职位库含专业字段）；2027年以新职</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>734</xmin>
+			<ymin>292</ymin>
+			<xmax>937</xmax>
+			<ymax>495</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>金融监管总局低分（50-6
+考
+2027国考时间
+本次名单岗位是否真实存在</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2</xmin>
+			<ymin>337</ymin>
+			<xmax>160</xmax>
+			<ymax>495</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>是否好
+误判
+2026-10-14公
+告
+是（2026年度
+|实际开考岗位）</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>166</xmin>
+			<ymin>334</ymin>
+			<xmax>319</xmax>
+			<ymax>487</ymax>
+		</bndbox>
+	</object>
+</annotation>

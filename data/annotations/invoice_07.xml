@@ -1,0 +1,44 @@
+<annotation>
+	<folder>raw</folder>
+	<filename>invoice_07.jpg</filename>
+	<path>E:\Ocrpy\data\raw\invoice_07.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>997</width>
+		<height>665</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Q025129贵阳东站Guiyangdong¥450.0元限乘当日当次车
+G1760
+2019年 08月02日 17:32开
+
+4台南昌西站Nanchangxi07车08A号二等座</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>101</xmin>
+			<ymin>94</ymin>
+			<xmax>909</xmax>
+			<ymax>371</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>买票请到12306发货请到95306
+中国铁路祝您旅途愉快
+25403311230729Q025129 南昌西售</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>129</xmin>
+			<ymin>441</ymin>
+			<xmax>703</xmax>
+			<ymax>598</ymax>
+		</bndbox>
+	</object>
+</annotation>

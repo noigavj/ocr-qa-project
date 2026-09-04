@@ -1,0 +1,99 @@
+<annotation>
+	<folder>raw</folder>
+	<filename>mix_09.jpg</filename>
+	<path>E:\Ocrpy\data\raw\mix_09.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>3072</width>
+		<height>4096</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>加减法：高位叠加	/	尾数法
+乘法：分子/分母变小	拆分 分小
+除法：拆分 放缩</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>369</xmin>
+			<ymin>76</ymin>
+			<xmax>2726</xmax>
+			<ymax>719</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>除法转换：化除为乘（-10%-10%）
+								 假设分配（0%-20%）</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>426</xmin>
+			<ymin>748</ymin>
+			<xmax>2545</xmax>
+			<ymax>1043</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>假设思维
+选项接近带入	分数 415
+增量							 A=B/1+R	 X=B-B/1+R</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>416</xmin>
+			<ymin>1071</ymin>
+			<xmax>2645</xmax>
+			<ymax>1514</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>ABRX类
+A	A=B/1+R=B-X	直除 假设 带入
+		 间隔基期	R=1+2+12
+		 基期和差： 假设 415
+		 A=X/R 变化情况</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>411</xmin>
+			<ymin>1519</ymin>
+			<xmax>2402</xmax>
+			<ymax>2467</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>B	假设增量求后期：列方程
+		假设增速求后期、直接推</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>388</xmin>
+			<ymin>2586</ymin>
+			<xmax>2488</xmax>
+			<ymax>3033</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>X	一般：化除为乘 415
+		 比值：X2/X1
+		 X=X1+X2......
+		实际增长率求后期</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>402</xmin>
+			<ymin>3043</ymin>
+			<xmax>2459</xmax>
+			<ymax>3871</ymax>
+		</bndbox>
+	</object>
+</annotation>

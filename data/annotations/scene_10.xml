@@ -1,0 +1,29 @@
+<annotation>
+	<folder>raw</folder>
+	<filename>scene_10.jpg</filename>
+	<path>E:\Ocrpy\data\raw\scene_10.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1440</width>
+		<height>1920</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>逻辑判断
+LUO JI PAN DUAN
+600题
+题本篇</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>76</xmin>
+			<ymin>146</ymin>
+			<xmax>1332</xmax>
+			<ymax>1376</ymax>
+		</bndbox>
+	</object>
+</annotation>

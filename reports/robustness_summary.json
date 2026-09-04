@@ -1,0 +1,27 @@
+{
+  "模糊": {
+    "sample_count": 50,
+    "avg_accuracy": 0.4593,
+    "exact_match_rate": 0.02
+  },
+  "低光照": {
+    "sample_count": 50,
+    "avg_accuracy": 0.6126,
+    "exact_match_rate": 0.02
+  },
+  "倾斜": {
+    "sample_count": 50,
+    "avg_accuracy": 0.493,
+    "exact_match_rate": 0.0
+  },
+  "噪声": {
+    "sample_count": 50,
+    "avg_accuracy": 0.6204,
+    "exact_match_rate": 0.02
+  },
+  "遮挡": {
+    "sample_count": 50,
+    "avg_accuracy": 0.5849,
+    "exact_match_rate": 0.0
+  }
+}

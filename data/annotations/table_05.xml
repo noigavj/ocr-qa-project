@@ -1,0 +1,82 @@
+<annotation>
+	<folder>raw</folder>
+	<filename>table_05.jpg</filename>
+	<path>E:\Ocrpy\data\raw\table_05.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1290</width>
+		<height>684</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name># 江西 2026 国考・计算机类可报岗位全表（81 岗，含专业与进面分）
+
+数据源：本地宝 2026 国考进面分查询（含专业字段），按关键词 “计算机” 筛选后逐岗核验专业，剔除财会 / 经济类误配。折算分制岗位单独标注。</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1</xmin>
+			<ymin>1</ymin>
+			<xmax>771</xmax>
+			<ymax>53</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>部门		用人司局		职位		专业要求		学历		招考人数		进面分		类型
+国家金融监督管理总局江西监管局		国家金融监督管理总局弋阳监管支局		科技部门一级主任科员及以下		计算机科学与技术、软件工程、网络工程、信息安全、电子与计算机工程、数据科学与大数据技术、网络空间安全、数据科学、计算机应用技术等专业		本科及以上		1		50.2		折算分制
+国家金融监督管理总局江西监管局		国家金融监督管理总局修水监管支局		科技部门一级主任科员及以下		计算机科学与技术、软件工程、网络工程、信息安全、电子与计算机工程、数据科学与大数据技术、网络空间安全、数据科学、计算机应用技术等专业		本科及以上		1		53.75		折算分制</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>3</xmin>
+			<ymin>70</ymin>
+			<xmax>1284</xmax>
+			<ymax>218</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>国家金融监督管理总局江西监管局		国家金融监督管理总局都昌监管支局		科技部门一级主任科员及以下		计算机科学与技术、软件工程、网络工程、信息安全、电子与计算机工程、数据科学与大数据技术、网络空间安全、数据科学、计算机应用技术等专业		本科及以上		1		53.95		折算分制
+国家金融监督管理总局江西监管局		国家金融监督管理总局樟树监管支局		统计信息部门一级主任科员及以下		计算机科学与技术、软件工程、网络工程、信息安全、电子与计算机工程、数据科学与大数据技术、网络空间安全、数据科学、计算机应用技术等专业		本科及以上		1		55.625		折算分制
+国家金融监督管理总局江西监管局		国家金融监督管理总局靖安监管支局		统计信息部门一级主任科员及以下		计算机科学与技术、软件工程、网络工程、信息安全、电子与计算机工程、数据科学与大数据技术、网络空间安全、数据科学、计算机应用技术等专业		本科及以上		1		56.25		折算分制</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1</xmin>
+			<ymin>237</ymin>
+			<xmax>1290</xmax>
+			<ymax>422</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>国家金融监督管理总局江西监管局		国家金融监督管理总局广丰监管支局		统计信息部门一级主任科员及以下		计算机科学与技术、软件工程、网络工程、信息安全、电子与计算机工程、数据科学与大数据技术、网络空间安全、数据科学、计算机应用技术等专业		本科及以上		1		56.6		折算分制
+国家金融监督管理总局江西监管局		国家金融监督管理总局庐山监管支局		科技部门一级主任科员及以下		计算机科学与技术、软件工程、网络工程、信息安全、电子与计算机工程、数据科学与大数据技术、网络空间安全、数据科学、计算机应用技术等专业		本科及以上		1		56.825		折算分制</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1</xmin>
+			<ymin>435</ymin>
+			<xmax>1275</xmax>
+			<ymax>568</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>国家金融监督管理总局江西监管局		国家金融监督管理总局贵溪监管支局		统计信息部门一级主任科员及以下		计算机科学与技术、软件工程、网络工程、信息安全、电子与计算机工程、数据科学与大数据技术、网络空间安全、数据科学、计算机应用技术等专业		本科及以上		1		56.925		折算分制
+国家金融监督管理总局江西监管局		国家金融监督管理总局宜丰监管支局		统计信息部门一级主任科员及以下		计算机科学与技术、软件工程、网络工程、信息安全、电子与计算机工程、数据科学与大数据技术、网络空间安全、数据科学、计算机应用技术等专业		本科及以上		1		57.625		折算分制</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1</xmin>
+			<ymin>568</ymin>
+			<xmax>1278</xmax>
+			<ymax>675</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,40 @@
+<annotation>
+	<folder>raw</folder>
+	<filename>doc_05.jpg</filename>
+	<path>E:\Ocrpy\data\raw\doc_05.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>515</width>
+		<height>720</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>填写说明
+一、本手册是毕业生毕业实习专用手册，学生应认真填写，不得
+随意涂改。
+二、毕业实习计划书由专职指导教师填写并经二级学院批准后执
+行，学生应按照实习计划规定要求进行毕业实习，保证毕业实习目标
+与效果的达成。
+三、毕业实习周记由学生根据实习实际情况按周填写，每周交给
+指导教师审阅评分。
+四、毕业实习总结是学生对整个毕业实习工作的归纳总结，学生
+在毕业实习全部结束后填写，字数不少于2000字。
+五、毕业实习鉴定表学生信息部分由学生填写，评语评分分别由
+企业指导教师、专职指导教师和思想政治指导教师填写并签名，总评
+成绩由专职指导教师填写，最后教学单位签暑意见并签字盖章。
+六、学生毕业实习结束后一周内应将手册交由专职指导教师审
+阅，最后交由学生所在院部统一存档保管。</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>53</xmin>
+			<ymin>50</ymin>
+			<xmax>469</xmax>
+			<ymax>558</ymax>
+		</bndbox>
+	</object>
+</annotation>

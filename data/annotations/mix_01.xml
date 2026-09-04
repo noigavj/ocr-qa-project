@@ -1,0 +1,30 @@
+<annotation>
+	<folder>raw</folder>
+	<filename>mix_01.jpg</filename>
+	<path>E:\Ocrpy\data\raw\mix_01.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2560</width>
+		<height>1835</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>观书有感朱熹
+半亩方塘一鉴开
+天光云影共徘徊
+问渠那得清如许
+为有源头活水来</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>103</xmin>
+			<ymin>45</ymin>
+			<xmax>2560</xmax>
+			<ymax>1835</ymax>
+		</bndbox>
+	</object>
+</annotation>

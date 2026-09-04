@@ -1,0 +1,43 @@
+<annotation>
+	<folder>raw</folder>
+	<filename>scene_06.jpg</filename>
+	<path>E:\Ocrpy\data\raw\scene_06.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>833</width>
+		<height>500</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>PSD
+Billboard
+Mockup
+Your Design Here</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>139</xmin>
+			<ymin>144</ymin>
+			<xmax>399</xmax>
+			<ymax>333</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>MO
+CK
+UP</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>563</xmin>
+			<ymin>156</ymin>
+			<xmax>697</xmax>
+			<ymax>304</ymax>
+		</bndbox>
+	</object>
+</annotation>

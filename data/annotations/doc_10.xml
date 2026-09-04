@@ -1,0 +1,34 @@
+<annotation>
+	<folder>raw</folder>
+	<filename>doc_10.jpg</filename>
+	<path>E:\Ocrpy\data\raw\doc_10.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>489</width>
+		<height>668</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>南昌工学院毕业实习管理办法
+南工教字[2024]185号
+第一章 总则第一条 为进一步加强学生实习工作管理，维护学生、学校和实习单位的合法权益，提高应用型人才培养质量，推进实践教学高质量发展，更好地服务产业转型升级，依据《中华人民共和国教育法》、《中华人民共和国劳动法》、《中华人民共和国安全生产法》等相关法律法规，以及教育部《关于加强和规范普通本科高校实习管理工作的意见》(教高函〔2019]12号)、江西省教育厅《关于进一步加强大中专院校学生实习管理的通知》(赣教办学〔2019]7号)、江西省教育厅《关于进一步加强普通本科高校实习管理工作的通知》(赣教高字[2023]19号)等文件，结合我校实际情况，特制定本办法.第二条 毕业实习是毕业生在指导老师指导下在实习基地或其他场所从事生产实践或研究调查工作的实践教学过程，是培养毕业生
+综合运用所学专业知识解决实际问题的能力过程，是人才培养方案的
+重要组成部分。
+第二章 毕业实习教学组织与职责
+第三条 毕业实习教学工作在主管校长领导下，实行校院二级管
+理.
+第四条 实验实训中心负责毕业实习教学宏观管理，制定毕业实习教学管理规章制度和毕业实习经费的分配方案，组织毕业实习教学</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>25</xmin>
+			<ymin>32</ymin>
+			<xmax>461</xmax>
+			<ymax>643</ymax>
+		</bndbox>
+	</object>
+</annotation>

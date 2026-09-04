@@ -1,0 +1,13 @@
+{
+  "old_version": {
+    "avg_accuracy": 0.613,
+    "exact_match_rate": 0.02
+  },
+  "new_version": {
+    "avg_accuracy": 0.613,
+    "exact_match_rate": 0.02
+  },
+  "delta_accuracy": 0.0,
+  "delta_exact_match": 0.0,
+  "status": "PASS"
+}

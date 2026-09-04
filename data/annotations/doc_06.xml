@@ -1,0 +1,38 @@
+<annotation>
+	<folder>raw</folder>
+	<filename>doc_06.jpg</filename>
+	<path>E:\Ocrpy\data\raw\doc_06.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>516</width>
+		<height>734</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name># 南昌工学院
+## 毕业实习手册
+学生姓名： 廖思洋
+学  号： 240307976
+专  业： 智能科学与技术
+班  级： 信息S2471
+所属学院： 信息与人工智能学院
+指导教师： 邱秀兰
+实习单位： 武汉鹏博汇能汽车服务有限公司
+实习时间： 2025.12.17‑2026.05.20
+
+南昌工学院 教务处
+     实验实训中心 制</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>58</xmin>
+			<ymin>46</ymin>
+			<xmax>475</xmax>
+			<ymax>646</ymax>
+		</bndbox>
+	</object>
+</annotation>

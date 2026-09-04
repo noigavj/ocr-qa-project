@@ -1,0 +1,47 @@
+<annotation>
+	<folder>raw</folder>
+	<filename>table_06.jpg</filename>
+	<path>E:\Ocrpy\data\raw\table_06.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>747</width>
+		<height>303</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name># 2027 国考（2026 年 11 月笔试）・冲保岗位名单（2026 国考真实数据版）
+
+适用：2026 届应届本科｜专业：智能科学与技术（计算机类 0809）｜国考水平约 115 分（省考 135）｜地点偏好：赣州优先
+数据来源：2026 国考真实进面分数（公考雷达 + 本地宝职位表交叉验证，逐岗核验专业可报性），岗位为 2026 年度实际开考岗位，2027 职位仅供参考</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>5</xmin>
+			<ymin>1</ymin>
+			<xmax>747</xmax>
+			<ymax>72</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>序号		层次		招录单位		职位		招录人数		专业要求（已验证可报）
+1		冲		国家税务总局赣州市税务局第一税务分局		一级行政执法员		2		统计学类、计算机类
+2		冲		国家税务总局于都县税务局		一级行政执法员（二）		2		数学类、电子信息类、计算机类
+3		冲		国家税务总局石城县税务局		一级行政执法员（一）		2		数学类、计算机类
+4		冲		国家税务总局瑞金市税务局		一级行政执法员（一）		2		统计学类、计算机类
+5		冲		国家税务总局宁都县税务局		一级行政执法员（二）		2		电子信息类、计算机类
+6		冲		国家税务总局龙南市税务局		一级行政执法员（三）		3		电子信息类、计算机类</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>5</xmin>
+			<ymin>86</ymin>
+			<xmax>728</xmax>
+			<ymax>303</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,30 @@
+<annotation>
+	<folder>raw</folder>
+	<filename>mix_04.jpg</filename>
+	<path>E:\Ocrpy\data\raw\mix_04.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>500</width>
+		<height>667</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>春日
+胜日寻芳泗水滨
+无边光景一时新
+等闲识得东风面
+万紫千红总是春</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>35</xmin>
+			<ymin>97</ymin>
+			<xmax>475</xmax>
+			<ymax>422</ymax>
+		</bndbox>
+	</object>
+</annotation>
