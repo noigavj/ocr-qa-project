@@ -44,7 +44,7 @@ ocr-qa-project/
 
 ## 🚀 快速开始
 
-1. 克隆项目
+### 1. 克隆项目
 ```bash
 git clone https://github.com/noigavj/ocr-qa-project.git
 cd ocr-qa-project
