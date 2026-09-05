@@ -69,10 +69,11 @@ python src/augmentation.py
 
 可按需选择执行对应测试脚本：
 
-python src/functional_test.py      # 功能测试 - 标准场景基线准确率
-python src/robustness_test.py      # 鲁棒性测试 - 5类退化场景效果
-python src/benchmark.py            # 性能基准测试 - 推理耗时统计
-python src/regression_test.py      # 回归测试 - 版本对比验证
+| :---: | :---: |
+| python src/functional_test.py |       功能测试 - 标准场景基线准确率 | 
+| python src/robustness_test.py |       鲁棒性测试 - 5类退化场景效果 | 
+| python src/benchmark.py       |       性能基准测试 - 推理耗时统计 | 
+| python src/regression_test.py |       回归测试 - 版本对比验证 | 
 
 ### 6. 生成可视化报告
 
