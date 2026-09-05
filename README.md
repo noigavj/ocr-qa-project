@@ -49,7 +49,7 @@ ocr-qa-project/
 git clone https://github.com/noigavj/ocr-qa-project.git
 cd ocr-qa-project
 
-2. 创建虚拟环境
+### 2. 创建虚拟环境
 
 Windows
 
@@ -61,17 +61,17 @@ Mac / Linux
 python -m venv venv
 source venv/bin/activate
 
-3. 安装依赖
+### 3. 安装依赖
 
 pip install -r requirements.txt -i https://pypi.tuna.tsinghua.edu.cn/simple
 
-4. 准备数据
+### 4. 准备数据
 
 将原始测试图片放入 `data/raw/` 目录，执行图像退化脚本生成增强样本：
 
 python src/augmentation.py
 
-5. 执行测试
+### 5. 执行测试
 
 python src/functional_test.py      # 功能测试
 python src/robustness_test.py      # 鲁棒性测试
